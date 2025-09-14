@@ -22,7 +22,7 @@ class book{
 			price=s.price;
 		}
 		void display(){
-			cout <<"title: "<<title<<endl;
+			cout <<"title of books: "<<title<<endl;
 			cout<<"author of books : "<<author<<endl;
 			cout <<" price: "<<price<<endl;
 		}
