@@ -23,7 +23,7 @@ class book{
 		}
 		void display(){
 			cout <<"title: "<<title<<endl;
-			cout<<"author: "<<author<<endl;
+			cout<<"author of books : "<<author<<endl;
 			cout <<" price: "<<price<<endl;
 		}
 };
